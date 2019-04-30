@@ -89,7 +89,7 @@ I don't have an android emulator. But I know a **vector path** works just like a
 ```
 
 The result is the las missing part
-![android:pathData](https://raw.github.com/prete/ctf-writeups/master/2019/UUT-CTF/multipart/path.svg)
+![android:pathData](https://raw.github.com/prete/ctf-writeups/master/2019/UUT-CTF/multipart/svg-path.png)
 
 *Decode that shit!*
 ```console
